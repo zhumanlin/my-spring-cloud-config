@@ -12,7 +12,7 @@ spring:
   profiles: dev
   application:
     name: test-cloud-dev-2.0
-
+myname: xiaoming
 
 ---
 
